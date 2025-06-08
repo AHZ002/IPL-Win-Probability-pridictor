@@ -37,21 +37,3 @@ This project predicts the winning probability of a team in an ongoing IPL (India
 
 ---
 
-## 🖼️ App Preview
-
-
-
-![App Screenshot](screenshots/app_screenshot.png)
-
-> ✅ Green Line: Win Probability  
-> ❌ Red Line: Lose Probability  
-> 📊 Blue Bars: Runs scored per over  
-> 💥 Yellow Line: Wickets lost per over
-
----
-
-## ✨ Author
-
-**Abdul Hadi**  
-AI Undergraduate | Machine Learning Enthusiast  
-[LinkedIn]([https://www.linkedin.com/in/abdul-hadi-969b48244/](https://www.linkedin.com/in/abdul-hadi-070727259/))
